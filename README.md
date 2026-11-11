@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor 👋
 
-<!--
-**JoaovSantos77/JoaovSantos77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência de Dados** na Fatec Santana de Parnaíba, com experiência na área financeira da CSU Digital. Interesse em dados aplicados a **saúde pública, finanças e cibersegurança**.
 
-Here are some ideas to get you started:
+## 🚀 Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [SaúdeMap](https://github.com/JoaovSantos77/SaudeMap) · [Acesse o app](https://saudemap.streamlit.app)
+Onde falta ressonância, mamógrafo ou hemodiálise no estado de São Paulo? O SaúdeMap cruza os equipamentos de saúde do **CNES/DATASUS** com a população do **Censo 2022 (IBGE)** e calcula, para os **645 municípios paulistas**, quantos aparelhos existem por 100 mil habitantes, para ajudar gestores públicos a identificar vazios assistenciais.
+
+- Tratamento e junção de bases públicas com códigos de município diferentes (6 e 7 dígitos)
+- Indicador de aparelhos por 100 mil habitantes, ranking estadual e comparação entre municípios
+- Mapa interativo e app publicado em Streamlit
+- Projeto Integrador apresentado na 3ª Mostra Acadêmica da Fatec
+
+`Python` `pandas` `Streamlit` `Altair` `pydeck`
+
+## 🛠️ Tecnologias
+
+- **Dados:** Python · pandas · SQL · SQL Server
+- **Visualização:** Power BI · Excel Avançado · Streamlit · Altair
+- **Ferramentas:** Git · GitHub · Google Colab
+
+## 📫 Contato
+
+[LinkedIn](https://l1nk.dev/linkedinjoaovitor)
